@@ -13,7 +13,7 @@ data = {
         "app_store": {
             "country": "ke",
             "app_name": "faras",
-            "app_id": "1616854301",
+            "app_id": "1616854301", 
             "last_total_reviews": 0
         },
         "play_store": {
@@ -30,7 +30,7 @@ data = {
             "country": "ke",
             "app_name": "uber-request-a-ride",
             "app_id": "368677368",
-            "last_total_reviews": 403  
+            "last_total_reviews": 0
         },
         "play_store": {
             "app_id": "com.ubercab",
