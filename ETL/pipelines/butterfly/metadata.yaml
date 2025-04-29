@@ -1,0 +1,121 @@
+blocks:
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_path: data_loaders/google_maps.py
+    file_source:
+      path: data_loaders/google_maps.py
+  downstream_blocks:
+  - pleasant_crafter
+  - google_maps_bar_chart_r8
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: Google Maps
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_loader
+  upstream_blocks: []
+  uuid: google_maps
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_path: data_loaders/google_play.py
+    file_source:
+      path: data_loaders/google_play.py
+  downstream_blocks:
+  - pleasant_crafter
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: google_play
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_loader
+  upstream_blocks: []
+  uuid: google_play
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    file_path: data_loaders/app_store.py
+    file_source:
+      path: data_loaders/app_store.py
+  downstream_blocks:
+  - pleasant_crafter
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: app_store
+  retry_config: null
+  status: executed
+  timeout: null
+  type: data_loader
+  upstream_blocks: []
+  uuid: app_store
+- all_upstream_blocks_executed: true
+  color: null
+  configuration: {}
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: pleasant crafter
+  retry_config: null
+  status: executed
+  timeout: null
+  type: transformer
+  upstream_blocks:
+  - app_store
+  - google_play
+  - google_maps
+  uuid: pleasant_crafter
+cache_block_output_in_memory: false
+callbacks: []
+concurrency_config: {}
+conditionals: []
+created_at: '2025-04-21 15:49:28.553659+00:00'
+data_integration: null
+description: null
+executor_config: {}
+executor_count: 1
+executor_type: null
+extensions: {}
+name: butterfly
+notification_config: {}
+remote_variables_dir: null
+retry_config: {}
+run_pipeline_in_one_process: false
+settings:
+  triggers: null
+spark_config: {}
+tags: []
+type: python
+uuid: butterfly
+variables_dir: /home/colonel/.mage_data/ETL
+widgets:
+- all_upstream_blocks_executed: true
+  color: null
+  configuration:
+    chart_style: vertical
+    chart_type: bar chart
+    x: x
+    y: y
+  downstream_blocks: []
+  executor_config: null
+  executor_type: local_python
+  has_callback: false
+  language: python
+  name: google_maps_bar chart_r8
+  retry_config: null
+  status: failed
+  timeout: null
+  type: chart
+  upstream_blocks:
+  - google_maps
+  uuid: google_maps_bar_chart_r8
