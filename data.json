@@ -2,7 +2,7 @@
     "faras": {
         "google_maps": {
             "query": "Faras Kenya",
-            "last_total_reviews": 139
+            "last_total_reviews": 120
         },
         "app_store": {
             "country": "ke",
@@ -12,13 +12,13 @@
         },
         "play_store": {
             "app_id": "com.faras.rider",
-            "last_total_reviews": 950
+            "last_total_reviews": 940
         }
     },
     "uber": {
         "google_maps": {
             "query": "Uber office nairobi",
-            "last_total_reviews": 410
+            "last_total_reviews": 400
         },
         "app_store": {
             "country": "ke",
@@ -28,13 +28,13 @@
         },
         "play_store": {
             "app_id": "com.ubercab",
-            "last_total_reviews": 20680
+            "last_total_reviews": 20660
         }
     },
     "little": {
         "google_maps": {
             "query": "Little Kenya",
-            "last_total_reviews": 827
+            "last_total_reviews": 800
         },
         "app_store": {
             "country": "ke",
@@ -44,13 +44,13 @@
         },
         "play_store": {
             "app_id": "com.craftsilicon.littlecabrider",
-            "last_total_reviews": 2586
+            "last_total_reviews": 2576
         }
     },
     "bolt": {
         "google_maps": {
             "query": "Bolt Interactive",
-            "last_total_reviews": 63
+            "last_total_reviews": 50
         },
         "app_store": {
             "country": "ke",
@@ -60,7 +60,7 @@
         },
         "play_store": {
             "app_id": "ee.mtakso.client",
-            "last_total_reviews": 30620
+            "last_total_reviews": 30600
         }
     }
 }
