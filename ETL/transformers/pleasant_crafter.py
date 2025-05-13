@@ -65,7 +65,6 @@ def transform(data, data_2, data_3):
     )
 
     combined_df['date'] = pd.to_datetime(combined_df['date'], errors='coerce')
-    combined_df.to_csv('testt.csv',index=False)
 
     return combined_df
 
