@@ -1,0 +1,175 @@
+,reviewer,rating,date,text,source,company,response,overall_sentiment,overall_emotion,aspect_analysis,churn_risk
+665,flx_mug,5,2023-09-02,Perfectly okay,app_store,bolt,False,positive,gratitude,{'accuracy': 'neutral'},low
+506,maina3560,3,2022-11-03,Crashes when I try to pin point my home address,app_store,little,False,negative,disappointment,{},low
+272,Mtishibi,5,2023-10-05,Best driver  ever,app_store,uber,False,positive,gratitude,{'driver': 'positive'},low
+538,paachylola,1,2020-11-26,"I was thoroughly embarrassed at the food court while trying to redeem points from my food wallet it just didn’t work even after sending a mail to customer care and they promised to fix the error it’s been over a month yet nothing has changed 
+I can’t even load points onto my wallet this is totally unacceptable  they really should have a rethink about this business!",app_store,little,False,negative,annoyance,{'service': 'negative'},low
+526,Nikitarose-Flo,5,2021-03-07,I like the app outlook. What I don’t like is how the app keeps closing itself when am booking a cab it’s just an inconvenience. Hope u can improve that,app_store,little,False,negative,disappointment,{'app': 'negative'},low
+581,shelly 254,1,2019-07-26,"-It does not have the drivers contacts so that you can call them incase of anything.
+-You can’t cancel once you requested a trip, this sucks when the driver is lost and you can’t call them cause there’s no contact info.
+-To make it worse, with all these, the charges keep running 
+- horrible app on an iPhone rather you use uber",app_store,little,False,negative,annoyance,"{'app': 'negative', 'safety': 'negative', 'service': 'negative'}",high
+878,cou1991,5,2020-12-13,Great drive,app_store,bolt,False,positive,gratitude,{'driver': 'positive'},low
+215,patricia 254,1,2024-07-12,"Some of the drivers are rude, one of them insisted on driving on the wrong side of the road. After confrontation ,he left me on a dangerous roadside and still demanding  more pay.  I regret this particular driver. Had a Very bad experience.",app_store,uber,False,negative,disappointment,"{'driver': 'negative', 'safety': 'negative'}",low
+361,masterkenns,4,2020-11-03,Good app. Kindly integrate more payment options where customers can have wallets within the app from where rides charges can be directly deducted.,app_store,uber,False,positive,gratitude,"{'app': 'positive', 'payment': 'positive'}",low
+728,sereyian,1,2022-04-12,How is someone requesting a ride using my number??????? How !!!!!!,app_store,bolt,False,negative,curiosity,{},low
+470,Siomchache,1,2015-11-07,Ridiculous new rates up by almost 60%! No longer competitive for me. I'm out.,app_store,uber,False,negative,annoyance,"{'price': 'negative', 'service': 'negative'}",low
+857,His Kereaness,5,2021-05-15,Wilson we t out of his way and accepted my unexpected change of route without compaints. He is a gentleman. Safety is his first priority.,app_store,bolt,False,positive,gratitude,"{'safety': 'positive', 'service': 'positive', 'driver': 'positive', 'app': 'positive'}",low
+698,kanzi 019,5,2022-12-16,"Was overcharged for a trip above the amount on the app…
+How can I get my refund",app_store,bolt,False,negative,curiosity,"{'price': 'negative', 'app': 'neutral'}",low
+627,Huud DMZ,1,2024-12-13,Harassing drivers,app_store,bolt,False,negative,neutral,{'driver': 'negative'},low
+1086,Soni Patel,5,2025-04-28,driver is good the way of driving it's also his doing driving very safe,google_play,uber,False,positive,gratitude,"{'driver': 'positive', 'safety': 'positive'}",low
+989,zoobie 💕,5,2018-09-18,Cool and Friendly ♥️,app_store,bolt,False,positive,gratitude,{},low
+999,kdkebgegsvs,1,2018-07-29,"I have trusted taxify for the longest time and even recruited several friends claiming “pocket friendly” , fast and efficient services. But today I’ve been dissapointed. I’ve been charged 3times my fare twice and what’s worse they blamed it on a surge that they didn’t even inform me about. I’m done with taxify. Deleting the APP now. Very unprofessional. Nkt!",app_store,bolt,False,negative,disappointment,"{'price': 'negative', 'app': 'negative', 'service': 'negative'}",low
+915,mankey321,5,2019-12-05,The app hangs every time when I try to open it.it doesn’t work .i even tryed to update .,app_store,bolt,False,negative,neutral,{'app': 'negative'},low
+817,iankg,1,2021-09-17,Gender discrimination,app_store,bolt,False,negative,neutral,{},low
+267,AbbyNyakara,5,2023-10-21,Awesome fella,app_store,uber,False,positive,gratitude,{},low
+82,joseph gathiga,5,2024-12-30,Positive experience,google_maps,little,False,positive,neutral,{},low
+1017,Robby Rai,5,2018-03-13,Taxify is a really good app with great prices and awesome drivers!,app_store,bolt,False,positive,gratitude,"{'app': 'positive', 'price': 'positive', 'service': 'positive'}",low
+587,4Y_KE,3,2019-02-06,"I have downloaded the app so that I may try the shuttle service tomorrow. Already booked the trip - More reviews on that.
+However, right now I cannot see my upcoming trips on the app.",app_store,little,False,neutral,neutral,{'app': 'negative'},low
+203,Guru Agengo,5,2024-08-15,Amazing driver,app_store,uber,False,positive,gratitude,{'driver': 'positive'},low
+1035,wa mwangi,5,2017-07-15,I'm a frequent user of Taxify and I've only encountered one bad driver,app_store,bolt,False,neutral,disappointment,"{'driver': 'negative', 'app': 'positive'}",low
+60,johnny murima,5,2025-04-15,Positive experience,google_maps,little,False,positive,neutral,{},low
+843,susanhalle,1,2021-09-04,All of you are a joke. Your driver attacks a rider who was accompanied by little children and y’all defended him without hearing the victim’s side of the story.if you’re reading this review don’t download this effin app🚮PURE GARBAGE,app_store,bolt,False,negative,gratitude,"{'app': 'negative', 'driver': 'negative'}",low
+994,D_e_n_n_o,5,2018-08-22,The best,app_store,bolt,False,positive,gratitude,{},low
+656,Hokage Takona,1,2023-12-20,"Terrible App, terrible drivers. Use this app at your own risk.",app_store,bolt,False,negative,anger,"{'app': 'negative', 'driver': 'negative', 'safety': 'negative'}",low
+1022,E-skratch,5,2017-12-11,Good,app_store,bolt,False,positive,gratitude,{},low
+536,mmk huk,1,2020-12-03,"Super expensive , rate on the app does not match rate after the trip",app_store,little,False,negative,disappointment,"{'price': 'negative', 'app': 'negative'}",low
+240,Sukari Nguru,5,2024-03-28,Thanks,app_store,uber,False,positive,gratitude,"{'payment': 'neutral', 'service': 'positive'}",low
+48,Aryiana Mahmud,1,2024-10-01,Very useless,google_maps,uber,False,negative,annoyance,{},low
+729,wcikuu,1,2022-03-26,This app is not safe! Drivers are rude and can even leave you stranded!,app_store,bolt,False,negative,annoyance,"{'app': 'negative', 'driver': 'negative'}",low
+645,MburuH,1,2024-05-23,"Quack drivers and management in the app. Kindly abstain from using this app, you will get inconvenienced and rude treatment",app_store,bolt,False,negative,annoyance,"{'app': 'neutral', 'driver': 'negative'}",low
+935,noreal name,3,2019-07-13,"Mistreating your drivers means mistreating your customers!! I have waited for 1 1/2 hours for a cab to take me from parklands to ngara!! I cant blame the app for sending me a driver from jogoo road, but do you really expect him to come for me???? Other driver ask for more, to pick n drop me.... but can i blame them????? FYI UBER INCLUDED!!!!!!!",app_store,bolt,False,negative,neutral,"{'waiting time': 'negative', 'app': 'negative', 'driver': 'negative'}",low
+6,Evelyne Waithera,5,2025-02-28,Efficiency,google_maps,faras,False,neutral,neutral,{},low
+840,mwakamrabu,1,2021-09-08,"Just shut down the whole damn app, clearly you do not understand the magnitude of the situations at hand and you think introducing a “women’s only “ section is going to change anything, especially when we are forced to pay more for our safety. Is this a joke to you? Why is our safety being handed to us as a privilege? Are you dumb? People have gone missing ! People have been injured…SERVERELY ! People have permanent mental trauma ! People have been raped !! People have been killed !!! LIVES HAVE BEEN LOST !!! And all for what??? For what??? You guys are disgusting!! And to think some of you sited in the office have families and are parents but this is how your brain functions??? This how you think? And it sits well with you? And I bet you sleep soundly in the night, right? I strongly urge you to run serious background checks on all your riders and drivers before you hire them. Make sure they are legible and qualify for the job in all aspects ! Find the root of the problem and solve the goddamn problem !!! Don’t just hand as our safety as a privilege and make us pay more for it. Y’all are crazy !!",app_store,bolt,False,negative,anger,"{'safety': 'negative', 'payment': 'negative', 'app': 'negative'}",low
+84,victor nasera,3,2024-12-30,Neutral  experience,google_maps,little,False,neutral,neutral,{'safety': 'neutral'},low
+143,valopy,1,2024-06-24,Most of the drivers don’t know the location keep wasting customers time and they are rude . I am annoyed by the app!,app_store,faras,False,negative,annoyance,{'app': 'negative'},low
+668,@@@$$$z,1,2023-08-14,The help function is blank meaning use it at your own risk? Or what is the deal here?,app_store,bolt,False,neutral,confusion,{},low
+475,Kali Kenya,5,2024-12-31,Always a great experience! The cars are neat and clean and the drivers are friendly and professional. Great for travelling with kids - it feels calm and safe,app_store,little,False,positive,gratitude,"{'safety': 'positive', 'service': 'positive', 'driver': 'positive'}",low
+493,Lady Nyawira,5,2023-05-16,I’m a firm believer of apps developed by Kenyans for the Panafrican market…. Little has delivered that!,app_store,little,False,positive,gratitude,{'app': 'positive'},low
+276,Randomness😭,1,2023-09-17,"Tell me why drivers are charging extra fees , from what i see in the app actually not extra but doubling the fee💔this is sad extremely why not just update the fee 💔damn plus why is the money i deposit not withdraw-able cause this is insane!!!",app_store,uber,False,negative,disappointment,"{'app': 'neutral', 'driver': 'negative', 'service': 'negative'}",low
+209,Femiella,5,2024-08-06,"Very friendly rider…
+Very careful with his speed..
+Great attitude 💪🏿",app_store,uber,False,positive,gratitude,{'safety': 'positive'},low
+1042,Wambugu Mwangi,5,2017-05-16,I use it everyday and i wanna use forever. Whats the discount? 👌,app_store,bolt,False,positive,curiosity,{},low
+877,Karmello hype,1,2021-01-13,Modern day robbery from this app & its management,app_store,bolt,False,negative,neutral,{'app': 'neutral'},low
+157,Guss derr,5,2023-10-14,W,app_store,faras,False,neutral,neutral,{},low
+298,Kkiissuummuu,5,2023-06-10,"Driver was great, clean car.",app_store,uber,False,positive,gratitude,"{'driver': 'positive', 'service': 'positive', 'safety': 'positive'}",low
+1137,Thembelihle Martha,5,2025-04-28,good service!!,google_play,bolt,False,positive,gratitude,"{'service': 'positive', 'customer support': 'positive'}",low
+717,m_eeh,1,2022-06-19,IF YOU ARE FEMALE DO NOT USE THIS APP,app_store,bolt,False,negative,neutral,{'app': 'negative'},low
+357,MinaNassif,5,2021-06-30,I have problem on IOS 14.6 can't  add more stops i have to ride first then add the stop kindly assest,app_store,uber,False,negative,neutral,"{'app': 'negative', 'customer support': 'negative'}",high
+864,🤗🥰💃🏾,5,2021-03-17,"BOLT is The BEST WAY to Travel around KENYA.Their Services are very good and Time Saving.The Drivers And Riders are very professional and Caring People.THANKYOU BOLT,May God’s Blessings continue to Shower you all.Aamin",app_store,bolt,False,positive,gratitude,{'service': 'positive'},low
+636,sua28,5,2024-08-11,Why was I double charged for Wilson Airport?,app_store,bolt,False,negative,curiosity,{'price': 'negative'},low
+544,LeRunningSloth,1,2020-10-26,This is literally the most expensive and worst cab app ever.,app_store,little,False,negative,annoyance,"{'app': 'negative', 'price': 'negative'}",low
+56,Chris Smith,5,2024-06-03,They put me to the front of the line being an Uber driver on vacation. I left my wallet in an Uber yesterday afternoon and wasn't able to contact the driver. The wallet was found under the seat and will return it to me later today.,google_maps,uber,False,negative,neutral,"{'service': 'negative', 'waiting time': 'negative', 'safety': 'negative', 'driver': 'negative'}",low
+38,Rennis Napoleon,4,2025-01-29,"Ample parking
+Great service",google_maps,uber,False,positive,gratitude,{'service': 'positive'},low
+93,Polyfin Nyabira,5,2024-10-31,Positive experience,google_maps,little,False,positive,neutral,{},low
+727,mantyss,1,2022-04-24,need the hotline number to report a very rude and arrogant driver who had the gut to insult me via sms,app_store,bolt,False,negative,annoyance,{'driver': 'negative'},low
+451,vnaskov,5,2016-11-04,The best app ever!,app_store,uber,False,positive,gratitude,{'app': 'positive'},low
+392,mwajoka,5,2019-02-09,I waited for your driver this morning but after a long time he calls to say he caught by the police for talking over the phone while driving eventually he cancelled the trip so I don’t understand why I was charged for mistakes which are not mine.,app_store,uber,False,negative,confusion,"{'waiting time': 'negative', 'driver': 'negative'}",high
+23,Ruth Favor,1,2025-04-22,Negative experience,google_maps,uber,False,negative,neutral,{},low
+782,romak bb,1,2021-09-17,Very useless app. Practicing gender based violence against men. They discriminate male drivers and humiliate them. Licking ladies ass,app_store,bolt,False,negative,annoyance,{},low
+1102,ضياء صباح,5,2025-04-28,good,google_play,uber,False,positive,gratitude,{},low
+1104,Muisyo Kivuva,5,2025-04-28,good 👍,google_play,little,True,positive,gratitude,{},low
+315,Dymphana,5,2023-04-15,The driver was very helpful especially because I was injured and he was very polite as well.,app_store,uber,False,positive,gratitude,"{'service': 'positive', 'driver': 'positive', 'safety': 'neutral'}",low
+675,Elmwamba,1,2023-07-03,"Riders are thieves, dint try sending packages and parcels",app_store,bolt,False,negative,neutral,{},low
+799,zagadem,1,2021-09-17,You deleted a drivers account after being abused by female rider - simply because he is a man. Video Evidence is in Twitter.. Useless organization,app_store,bolt,False,negative,annoyance,{'driver': 'negative'},high
+77,KELLY KIPKOECH,5,2025-01-29,Positive experience,google_maps,little,False,positive,neutral,{},low
+423,Sinamie,3,2018-05-10,The application kept changing arrival time for the driver and this caused me a lot of anxiety.,app_store,uber,False,negative,confusion,"{'app': 'negative', 'driver': 'negative'}",low
+464,Wadska,5,2016-01-18,Good services. Keep it up,app_store,uber,False,positive,gratitude,"{'service': 'positive', 'customer support': 'positive'}",low
+135,Bathlomeow,1,2024-12-03,Driver wanted to attack me because I received a new user discount! Never again,app_store,faras,False,negative,neutral,"{'driver': 'negative', 'price': 'neutral'}",low
+351,youstolemoney2022,1,2022-03-07,"Purely in your words: “we’ve passed your question to another team because they’re experts in solving problems like yours….
+As there are no further actions that can be taken here, we won’t be able to respond to further messages on this issue. We appreciate your understanding “
+I appreciate your understanding too.",app_store,uber,False,positive,gratitude,"{'customer support': 'positive', 'accuracy': 'positive'}",low
+1145,Tsungi Mwandiambira,1,2025-04-28,do not download and do not use !!!! absolutely terrible customer service no resolution after leaving me stranded at Heathrow and they had already taken money out of my account. I was told to wait as long as it takes until I connect to a driver willing to take my journey. over 10 drivers cancelled before I spoke to anyone. all in all terrible. oh and the advisors 2 of them hung up on me !!!,google_play,bolt,False,negative,anger,"{'customer support': 'negative', 'waiting time': 'negative', 'service': 'negative', 'app': 'negative'}",high
+225,bgm_reviewer,3,2024-06-10,"This app has helped me travel faster and in more convenience at an affordable price, especially in my country where even hailing a cab can be a hassle and a security risk. 
+
+With that said, there is a huge problem with your pricing system which leaves the drivers frustrated. Once a driver refused to get to my pickup point (by staying still) so that he can force me to cancel the trip and take responsibility off of him (since I was new to the app I did not know then that my driver could be changed after cancelling the trip), and as I am writing this review three drivers rejected my trip again before I decided to use another trip option, which was more costly. I’m of the opinion that the drivers don’t like the fare which is too little, and that may lead to harassment cases in future.
+
+I would also recommend on Uber introducing tutorials on how to cancel a trip and the options available for it, so that riders may have the peace of mind of knowing that they may not have to pay damages for incidents which are not their fault. Thank you.",app_store,uber,False,negative,gratitude,"{'price': 'negative', 'app': 'negative'}",high
+385,mulijo,1,2019-04-22,"Horrible service. Rude, arrogant driver. How can he respond to my request then decline to transport me. This is the trend of most Uber drivers.",app_store,uber,False,negative,anger,"{'service': 'negative', 'driver': 'negative', 'app': 'negative'}",low
+1052,Reign Lamu,1,2025-04-21,"i have tried this app many times but i realised its drivers, riders are very disrespectful, rude unprofessional and use very old cars. seat belts don't work i think faras team needs to examine cars before allowing them join their circle. its never comfortable riding with Faras!",google_play,faras,False,negative,confusion,"{'app': 'negative', 'safety': 'negative', 'driver': 'negative'}",low
+539,Nav1973,4,2020-11-20,Very pleasant journey from the hospital with a very knowledgeable and friendly person..really enjoyed the ride back..thank you for what you do and keep it up,app_store,little,False,positive,gratitude,{'service': 'positive'},low
+1103,Anup Kumar Bansal,1,2025-04-28,last six month cab Auto only searching no booking your app customer Ko Kisi dusre app ka Sahara Lena padta hai /rapido ola only 2/3 minute Auto/Cab provide me / Maine 8 /5/ 2025 advance cab book kare hai Kya Main is booking ko confirm samjhau ki cab aaegi please provide me customer care number,google_play,uber,False,neutral,neutral,"{'customer support': 'negative', 'app': 'negative', 'service': 'negative'}",low
+954,JudeNish,5,2019-02-06,Excellent job,app_store,bolt,False,positive,gratitude,{'accuracy': 'positive'},low
+285,Shah Nil,5,2023-08-10,Service was good n efficient,app_store,uber,False,positive,gratitude,"{'service': 'positive', 'customer support': 'positive'}",low
+213,Major Vidosa,5,2024-07-22,Very nice.,app_store,uber,False,positive,gratitude,{'service': 'positive'},low
+612,deeehsbs,1,2025-03-24,I personally rude bolt on a daily and more than occasion I felt absolutely safe.One driver actually told me he would rape and murder me do to a promo given to me by the bolt app.He then dropped me in the middle of nowhere in a place that I was not even familiar with.The drivers are able to conduct themselves in this manner do to lack of consequences.I reported it only to find out absolutely no action was taken against the driver.,app_store,bolt,False,negative,neutral,{},low
+700,humesa,3,2022-12-04,"U guyz ur servers is bad and horrible,nowadays some drives they call you and ask you where are you going,out of respect they pick another client while you are waiting fr them . If the they can’t going certain place they can just call and Jst keep waiting fr them
+I can see see you guys aren’t taking my prom lee too serious. Because why is the bolt drives are asking the money before picking you what is that  behaviour",app_store,bolt,False,negative,neutral,"{'waiting time': 'negative', 'service': 'negative'}",low
+299,MKW.,5,2023-06-08,Great experience,app_store,uber,False,positive,gratitude,{'service': 'positive'},low
+1110,Mwendwa Kalui,1,2025-04-23,excellent 👌,google_play,little,True,positive,gratitude,{},low
+666,Bananasoverdose,1,2023-09-01,"On the 30th of June 2023 at 21:30 I was headed to an art gallery opening my friend invited me to and I used bolt as I have many times. But this bolt driver ended the trip shortly after the trip started before I arrived to my destination, and when I asked him why he ended the trip, he locked the car and started speeding while ignoring me. To my luck, there was a big speed bump ahead, so he slowed down, which allowed me to open the back door and try to jump, but he grabbed me by my neck and my jacket collar, and he said you’re not going anywhere. I started hitting his head with my phone until he stopped driving and I was screaming, so people gathered around, and he had the audacity to say he was only fighting me because I had refused to pay him, which was a lie. No one believed me when I said he was trying to kidnap me, so I had to pay him so he would leave me alone. I am for sure not using ever again in my life. I’m just gonna stick to Uber.",app_store,bolt,False,negative,neutral,{},high
+1149,Adedapomola Martins,5,2025-04-28,good,google_play,bolt,False,positive,gratitude,{},low
+574,Brian_Maleek,1,2019-09-29,"Since the last update the app keeps on crashing. So I offloaded the app and downloaded it again, unfortunately I can’t get past the mobile phone registration, the app crashes there after.",app_store,little,False,negative,disappointment,{'app': 'negative'},low
+996,LaBoody,5,2018-08-12,Excellent,app_store,bolt,False,neutral,gratitude,"{'service': 'positive', 'accuracy': 'positive'}",low
+852,Ms Muriu,1,2021-06-21,You have cases of mistreatment from  your drivers but you don’t do anything about it. Personally I have cancelled your app and am rallying 10 of my friends to do the same.,app_store,bolt,False,negative,neutral,"{'app': 'negative', 'safety': 'negative', 'driver': 'negative'}",high
+557,ngashgaga,5,2020-05-15,Best local app in town I love it  ❤️,app_store,little,False,positive,gratitude,{'app': 'positive'},low
+1038,JB JONNZ,5,2017-06-08,Great useful App,app_store,bolt,False,positive,gratitude,{'app': 'positive'},low
+273,JDennis24,5,2023-10-04,"The app is all good, however for fair ratings, let the driver see my rating after they have rated me too. Some drivers will wait to see what you’ll rate them, then proceed to give you bad ratings. Which seems to favor drivers more. I mean, I should be able to rate a driver poorly if the service offered was poor, without it affecting my rating.",app_store,uber,False,neutral,gratitude,"{'app': 'positive', 'service': 'negative'}",low
+286,Ilemba,5,2023-08-06,An awesome addition yo the App Features! Thanks,app_store,uber,False,positive,gratitude,{'app': 'positive'},low
+888,Nickonsin,5,2020-10-02,"Good driver, precise on locations and friendly.",app_store,bolt,False,positive,gratitude,"{'driver': 'positive', 'service': 'positive', 'safety': 'positive', 'accuracy': 'positive'}",low
+589,dyviek,1,2018-11-01,Why dont you have little cab drivers app on ios ?,app_store,little,False,neutral,curiosity,{},low
+876,fnyakundi,5,2021-01-19,Your drivers are just excellent and disciplined,app_store,bolt,False,positive,gratitude,"{'driver': 'positive', 'service': 'positive', 'safety': 'positive'}",low
+514,Ahan75,1,2022-06-26,"Payments not done on time, stay away as customer care will also waste your time!!!",app_store,little,False,negative,annoyance,"{'payment': 'negative', 'customer support': 'negative'}",low
+101,lawrence kamuiru,2,2025-04-01,Negative experience,google_maps,bolt,False,negative,neutral,{},low
+389,Pauline Kamau,5,2019-03-01,"I was charged for not paying a driver who asked me to cancel the trip because he was far in Lower Kabete. Why was I charged? Is this a way of making profits?
+
+Pauline",app_store,uber,False,negative,curiosity,{'driver': 'negative'},high
+990,michelleisnotmyname,1,2018-09-05,"A taxify driver named Geoffrey is a liar. There was a problem with the receipt generation from a trip and he asked for a specific amount of payment which I paid and asked me to raise any query using the application. I was then informed that the driver stated that I had underpaid which is false. That is disappointing! If a driver can lie about fares/amount paid, what else is he capable of doing?!",app_store,bolt,False,negative,disappointment,"{'driver': 'negative', 'payment': 'negative', 'app': 'negative', 'price': 'negative', 'service': 'negative'}",low
+1044,justine mbwilo,1,2025-04-28,You good in moto bikes.but for car request your always busy. you have failed to fulfill the demands of your customers.,google_play,faras,False,negative,disappointment,{},low
+534,Betty Wanjiru,1,2020-12-22,"I have been wondering for days why my trip cost is always higher than what was initially approximated only to discover on the app it always shows 20Kes per Km and the final bill is 30Kes per Km. This is a scam, be honest with your pricing because either way we will discover. Definitely not using Little again.",app_store,little,False,negative,confusion,"{'price': 'negative', 'app': 'negative'}",low
+861,Sir_Lavi,1,2021-04-28,"I hate this app and the services offered, I’ll never download it. Stop sending me ads!",app_store,bolt,False,negative,anger,"{'app': 'negative', 'service': 'negative'}",high
+582,Av3ng3rsAr1s3,5,2019-06-15,"Keep doing a great job guys, a few bugs here and there but I love that the developers in charge listen",app_store,little,False,positive,gratitude,{},low
+952,Behumble 44,1,2019-03-09,This app used to be good nowadays I get overcharged on almost every trip and whenever I contact the support group (customer service) they don’t respond at all. This is just frustrating and I am forced to delete it.,app_store,bolt,False,negative,annoyance,"{'app': 'negative', 'price': 'negative', 'customer support': 'negative', 'service': 'negative'}",high
+134,Masika3664,1,2024-12-14,The app shows prices different from what it shows the driver and the client.Stop scamming your customers and be honest!,app_store,faras,False,negative,annoyance,"{'app': 'negative', 'price': 'negative'}",high
+509,nonniy2,1,2022-07-29,"The promo codes aren’t working yet it said verified. 
+This is the second tine and the money is more than the estimate.",app_store,little,False,negative,disappointment,{'waiting time': 'negative'},low
+1099,Jansi Mary,1,2025-04-28,price extra,google_play,uber,False,neutral,neutral,"{'price': 'negative', 'payment': 'negative'}",low
+368,Miss Auma,5,2019-08-31,"Am impressed about the trip code. That’s the best idea. 
+
+Thank you",app_store,uber,False,positive,gratitude,{},low
+617,Never again🤦‍♀️🤮,1,2025-02-14,"Bolt foods and bolt is a scam, they refuse to refund your money for cancelled orders, the customer service team is just apologies and no resolution",app_store,bolt,False,negative,neutral,{},high
+736,DjLaserAfrica,1,2022-02-21,Take Care of Drivers then clients/riders will be taken care of! If not clients will be mistreated,app_store,bolt,False,negative,gratitude,"{'service': 'negative', 'safety': 'negative', 'driver': 'negative', 'accuracy': 'negative'}",low
+718,faith KE,1,2022-06-16,All drivers I have interacted with have been so rude and unprofessional. Getting mad at the customer for discounts given on the app. Have had a terrible experience with them. Can’t give them a chance anymore. Not safe for women neither during the day nor night. Such a waste!,app_store,bolt,False,negative,annoyance,"{'safety': 'negative', 'driver': 'negative', 'app': 'neutral'}",low
+890,Khasing,5,2020-09-30,Always on time and services are amaizing thank you bolt,app_store,bolt,False,positive,gratitude,"{'service': 'positive', 'accuracy': 'positive'}",low
+1136,Imran Shamsul,1,2025-04-28,"Passenger safety is not a priority for this platform. There is no guarantee that you will have a safe and smooth ride. Bolt as a platform does not ensure any safeguards or guarantees that the driver will begin the journey with the correct rider on board. Twice this week, there has been a random stranger in my ride. Bolt has yet to implement a robust confirmation system between driver and rider.",google_play,bolt,False,negative,neutral,"{'safety': 'negative', 'service': 'negative', 'accuracy': 'negative'}",low
+433,naivando,5,2017-11-15,Being driven by a lady was awesome!!,app_store,uber,False,positive,gratitude,{'driver': 'positive'},low
+946,rapmanmushi,5,2019-04-26,Very reliable,app_store,bolt,False,positive,gratitude,"{'accuracy': 'positive', 'service': 'positive', 'safety': 'positive'}",low
+338,E 0,5,2022-12-15,Perfect,app_store,uber,False,positive,gratitude,"{'accuracy': 'positive', 'safety': 'positive'}",low
+899,Davnkyi,4,2020-06-09,"Most of the time Bolt works for me. However, there are three issues you need to address. Some Bolt drivers insist on cash and request riders to cancel and pay them offline in cash. I consider this to be unethical behaviour. The other issue is requesting for a Bolt Plus and you get a normal tiny car which beats the purpose of classification. Lastly, some drivers come with different cars other than those registered and plead that you should not report them. You need to deal with these issues.",app_store,bolt,False,negative,neutral,"{'payment': 'negative', 'service': 'negative', 'price': 'negative', 'driver': 'negative', 'customer support': 'negative', 'safety': 'negative'}",high
+1069,Maryam Maalim,5,2025-04-03,good 👍,google_play,faras,False,positive,gratitude,{},low
+330,Gurero chief,5,2023-01-05,My phone ran out of charge while using Uber and Uber paid the driver for my trip for me to be allowed to pay later in my next trip… I realized with Uber u simply cannot get stuck,app_store,uber,False,neutral,confusion,"{'safety': 'negative', 'payment': 'negative', 'service': 'negative', 'app': 'negative'}",low
+960,kastumo,3,2019-01-08,"Great app , really helpful, but",app_store,bolt,False,positive,gratitude,{'app': 'positive'},low
+657,Brian Buju,1,2023-12-17,I wish there was a Zero star rating please Use UBER instead,app_store,bolt,False,negative,curiosity,{'app': 'negative'},low
+378,1230zoo,1,2019-06-03,I waited for the driver who went to the wrong location and finally couldn’t get to where I was.  I had to ask for another Uber and I was charged 150/.  I need the money refunded.,app_store,uber,False,negative,neutral,"{'waiting time': 'negative', 'price': 'negative', 'driver': 'negative', 'app': 'negative'}",low
+608,Brayosen Media,5,2025-04-21,Safe and very affordable and time keeper,app_store,bolt,False,positive,neutral,"{'safety': 'positive', 'price': 'positive', 'service': 'positive', 'waiting time': 'positive'}",low
+1020,Dimbil,5,2018-01-28,The cheapest i have seen in the taxis industry thanks,app_store,bolt,False,positive,gratitude,{'price': 'positive'},low
+1089,Santosh Kumari,5,2025-04-28,Great platform but some drivers are not so good,google_play,uber,False,negative,gratitude,{'driver': 'negative'},low
+654,Very Mad treated like a dog,1,2024-02-08,They will drop you in the middle of the road and tell you how ugly you are.,app_store,bolt,False,negative,neutral,{},low
+30,N P,1,2025-03-30,Best service if you want to wait 8 minutes when it says 2 and then wait again while guys fuel. Uber is getting increasingly annoying in Kenya.,google_maps,uber,False,negative,annoyance,"{'waiting time': 'negative', 'service': 'positive', 'app': 'negative'}",low
+813,NaiGhoul,1,2021-09-17,Gender biased against male drivers.,app_store,bolt,False,negative,neutral,{'driver': 'negative'},low
+284,Abby Tassel,5,2023-08-13,Very good service..Amazing,app_store,uber,False,positive,gratitude,"{'service': 'positive', 'customer support': 'positive'}",low
+47,george omolo,1,2024-10-01,Negative experience,google_maps,uber,False,negative,neutral,{},low
+422,loxy2mbo,5,2018-05-11,"Professional, good in communication",app_store,uber,False,positive,gratitude,{},low
+836,vansdesmond,1,2021-09-17,You are very biased towards the male gender and discriminatory behavior toward men,app_store,bolt,False,negative,neutral,{},low
+797,dr254,1,2021-09-17,Very poor and unethical service,app_store,bolt,False,negative,disappointment,{'service': 'negative'},low
+545,breysah,5,2020-10-24,Really nice.. I enjoyed it. Will be riding it again.,app_store,little,False,positive,gratitude,{},low
+830,user 100000001,1,2021-09-17,I wouldn’t recommend.,app_store,bolt,False,negative,disappointment,{},low
+1024,Bond Tommy,5,2017-11-29,Excellent driver,app_store,bolt,False,positive,gratitude,"{'driver': 'positive', 'safety': 'positive', 'service': 'positive'}",low
+1061,Jjumba Husina,5,2025-04-09,very fast n clean,google_play,faras,False,neutral,neutral,{},low
+171,Tess Kui,5,2025-03-27,Safe drive & punctual,app_store,uber,False,positive,gratitude,"{'safety': 'positive', 'service': 'positive', 'accuracy': 'positive', 'driver': 'positive'}",low
+978,Hassan hamedy,5,2018-10-21,"Very kind and driving safe,  socialized well",app_store,bolt,False,positive,gratitude,"{'safety': 'positive', 'driver': 'positive', 'service': 'positive'}",low
+630,Shekuwe,1,2024-11-15,My case being handle by 5 agent and no one could assist me,app_store,bolt,False,negative,neutral,{},low
+193,Bristo10,1,2024-10-12,Your vouchers never reflect its shows it has been credited but doesn’t reflect,app_store,uber,False,negative,neutral,{'payment': 'negative'},low
+643,KC Elias,5,2024-06-07,💯💯,app_store,bolt,False,neutral,gratitude,{},low
+1019,Mwiwa,5,2018-02-02,Simply the best taxi hailing app that's out there. Love it,app_store,bolt,False,positive,gratitude,"{'app': 'positive', 'service': 'positive'}",low
+768,Smyjer,1,2021-09-18,👎🏾👎🏾,app_store,bolt,False,neutral,gratitude,{},low
+195,Chiri 2,1,2024-09-28,"Please reverse my money. I got a cancellation fee for a trip I did not cancel. When my ride could not complete, the app allowed me to request another ride. 
+Why should I get charged for that cancellation? 
+Thanks in advance 
+Jepchirchir",app_store,uber,False,negative,gratitude,{'app': 'positive'},high
+497,POLLYOKORE,5,2023-05-07,The Best,app_store,little,False,positive,gratitude,{},low
+1142,Samkelciwe Hlophe,5,2025-04-28,excellent,google_play,bolt,False,positive,gratitude,{},low
