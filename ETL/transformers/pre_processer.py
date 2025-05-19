@@ -15,6 +15,27 @@ def transform(data, data_2, data_3):
         df = df.rename(columns=rename_map)
         df['source'] = source
         return df
+    def relative_to_date(rel_str):
+        now = datetime.now()
+        rel_str = rel_str.lower()
+        
+        if 'hour' in rel_str:
+            hours = int(rel_str.split()[0]) if rel_str[0].isdigit() else 1
+            return now - timedelta(hours=hours)
+        elif 'day' in rel_str:
+            days = int(rel_str.split()[0]) if rel_str[0].isdigit() else 1
+            return now - timedelta(days=days)
+        elif 'week' in rel_str:
+            weeks = int(rel_str.split()[0]) if rel_str[0].isdigit() else 1
+            return now - timedelta(weeks=weeks)
+        elif 'month' in rel_str:
+            months = int(rel_str.split()[0]) if rel_str[0].isdigit() else 1
+            return now - timedelta(days=months*30)  # Approximate
+        elif 'year' in rel_str:
+            years = int(rel_str.split()[0]) if rel_str[0].isdigit() else 1
+            return now - timedelta(days=years*365)  # Approximate
+        else:
+            return now
 
     app_store_df = safe_prepare(
         data,
@@ -54,7 +75,10 @@ def transform(data, data_2, data_3):
         'google_maps'
     )
 
-    common_columns = ['reviewer', 'rating', 'date', 'text', 'source','company']
+    common_columns = ['reviewer', 'rating', 'date', 'text', 'source','company','response']
+    google_maps_df['date'] = google_maps_df['date'].apply(relative_to_date)
+    google_maps_df['date'] = google_maps_df['date'].dt.strftime('%Y-%m-%d')
+    app_store_df['response'] = np.NaN
     combined_df = pd.concat(
         [
             app_store_df[common_columns],
@@ -65,6 +89,10 @@ def transform(data, data_2, data_3):
     )
 
     combined_df['date'] = pd.to_datetime(combined_df['date'], errors='coerce')
+    combined_df.loc[combined_df['text'].isna() & (combined_df['rating'] >= 4), 'text'] = "Positive experience"
+    combined_df.loc[combined_df['text'].isna() & (combined_df['rating'] <= 2), 'text'] = "Negative experience"
+    combined_df.loc[combined_df['text'].isna() & (combined_df['rating'] == 3), 'text'] = "Neutral  experience"
+    combined_df['response'] = combined_df['response'].notna()
 
     return combined_df
 

@@ -92,7 +92,7 @@ class ModelPipeline:
             'optimism': 'gratitude',
             'pride': 'gratitude',
             'relief': 'gratitude',
-            'excitement': 'gratitude',  
+            'excitement': 'excitement',  
             # Cognitive states
             'desire': 'curiosity',
             'surprise': 'confusion',  
