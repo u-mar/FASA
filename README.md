@@ -35,7 +35,9 @@ The ride-hailing market in Kenya is highly competitive, with companies like Uber
 
 
 ## 📂 Data Sources
-Reviews were scraped from:
+[![Google Play](images/google-play-logo.png)](https://play.google.com) | [![App Store](images/app-store-logo.png)](https://www.apple.com/app-store) | [![Google Maps](images/google-maps-logo.png)](https://maps.google.com)
+--- | --- | ---
+[Google Play](https://play.google.com) | [App Store](https://www.apple.com/app-store) | [Google Maps](https://maps.google.com)
 
 
 **Sample Review**:
